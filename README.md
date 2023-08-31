@@ -1,26 +1,24 @@
-# Todo App
+# Todo App (BE)
 
-Welcome to the repository of my Web Todo Application built using React.js! This application is designed to help you organize your daily tasks in an efficient and intuitive manner.
+Welcome to the backend repository of the Web Todo Application! This backend is built using Express.js and Mongoose and serves as the API for the Todo application frontend.
 
-## Key Features
+## Features
 
-- **Add, Edit, Delete Todo:** Add new tasks to the list, edit details of existing tasks, or delete tasks that have been completed.
+- **RESTful API:** Provides a RESTful API for managing tasks in the Todo application.
 
-- **Status Marking:** Mark tasks as completed to help you keep track of accomplished tasks.
+- **MongoDB Database:** Utilizes a MongoDB database to store and manage task data.
 
-- **Prioritize Tasks:** Assign priority to tasks by adding priority labels. Easily highlight the most important tasks.
+## Prerequisites
 
-- **Quick Search:** Utilize the search feature to swiftly find tasks based on titles or descriptions.
+- Node.js and npm must be installed on your system.
 
-- **Responsive Design:** The application is designed responsively, allowing you to access and manage your tasks from any device.
+- MongoDB server must be running and accessible.
 
-## How to Run the Application
+## Setup Instructions
 
-1. Make sure you have Node.js installed on your computer.
-
-2. Clone this repository into your local directory.
+1. Clone this repository to your local machine.
 
 
 ## Backend Repository
 
-The backend of this application is hosted in a separate repository. You can find the backend code and setup instructions in the following repository: [Web Todo Application Backend](https://github.com/Irfanmqrb25/todo-be).
+The frontend of this application is hosted in a separate repository. You can find the backend code and setup instructions in the following repository: [Web Todo Application Backend](https://github.com/Irfanmqrb25/todo-fe).
