@@ -18,4 +18,4 @@ Welcome to the repository of my Web Todo Application built using React.js! This 
 
 1. Make sure you have Node.js installed on your computer.
 
-2. Clone this repository into your local directory:
+2. Clone this repository into your local directory.
