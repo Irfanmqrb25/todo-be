@@ -19,6 +19,6 @@ Welcome to the backend repository of the Web Todo Application! This backend is b
 1. Clone this repository to your local machine.
 
 
-## Backend Repository
+## Frontend Repository
 
-The frontend of this application is hosted in a separate repository. You can find the backend code and setup instructions in the following repository: [Web Todo Application Backend](https://github.com/Irfanmqrb25/todo-fe).
+The frontend of this application is hosted in a separate repository. You can find the backend code and setup instructions in the following repository: [Web Todo Application Frontend](https://github.com/Irfanmqrb25/todo-fe).
